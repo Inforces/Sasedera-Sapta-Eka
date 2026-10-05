@@ -5,10 +5,9 @@ html {
 }
 
 
-h1{text-align:center;
-  color:hotpink;
+h1{color:hotpink;
   font-weight:bold;
-  font-size:11;
+  font-size:100;
   }
 
 body{background-color:aqua;
